@@ -57,6 +57,32 @@ pip install -r requirements.txt
 
 **VQA dataset**.
 
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
+
+```
+bash training.sh
+```
+
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🤖Inference</h2>
+
+```
+bash Inference.sh
+```
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔗Citation</h2>
+
+```
+@ARTICLE{10976651,
+  author={Xie, Jianlin and Wang, Guanqun and Zhang, Tong and Sun, Yikang and Chen, He and Zhuang, Yin and Li, Jun},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Object detection;Remote sensing;Training;Detectors;Visualization;Feature extraction;Location awareness;Semantics;Data mining;Optimization;open-vocabulary;remote sensing object detection;decoupled learning},
+  doi={10.1109/TGRS.2025.3564332}}
+```
+
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Notice</h2>
 
 We will release our code and VQA dataset to support future research in remote sensing open-vocabulary object detection.
