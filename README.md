@@ -1,7 +1,7 @@
 <h1 align="center">☀️LLaMA-Unidetector☀️</h1>
 
 <h3 align="center" style="font-family: 'Times New Roman'; font-size: 10px;">
-LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery
+LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery
 </h3>
 
 <p align="center">
