@@ -33,7 +33,7 @@ Our main contributions are:
 1. Installation
 </h3>
 
-DECOR is developed based on python==3.9.11 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements.
+LLaMA-Unidetector consists of a two-stage algorithm, namely object localization and foreground recognition. Object localization is developed based on python==3.9.11 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements. Foreground recognition is developed based on python==3.9.11 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements.
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. Clone Project
