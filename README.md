@@ -92,15 +92,37 @@ A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LL
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
+i. class-agnostic object localization stage
+</h3>
+
 ```
-bash training.sh
+sh train_RSdet_objectsmall.sh
+```
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+ii. TerraOV-LLM foreground recoginition stage
+</h3>
+
+```
+sh finetune.sh
 ```
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🤖Inference</h2>
+i. class-agnostic object localization stage
+</h3>
 
 ```
-bash Inference.sh
+sh test_dior.sh
 ```
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+ii. TerraOV-LLM foreground recoginition stage
+</h3>
+
+```
+python test_performance.py
+```
+
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔗Citation</h2>
 
 ```
