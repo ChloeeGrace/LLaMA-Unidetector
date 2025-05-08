@@ -49,7 +49,7 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 ii. Install
 </h3>
 
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+<h3 style="font-family: 'Times New Roman'; font-size: 15px; padding-left: 20px;">
     a. Object localization
 </h3>
 
