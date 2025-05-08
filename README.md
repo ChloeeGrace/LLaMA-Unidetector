@@ -63,7 +63,7 @@ Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.g
 2. Data Preparation
 </h3>
 
-**VQA dataset**.
+[**VQA dataset**](VQA_dataset/AID30_LLAVA_TUNE.json).
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
