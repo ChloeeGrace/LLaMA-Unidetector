@@ -45,25 +45,19 @@ i. Clone Project
 git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 ```
 
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-ii. Install
-</h3>
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">ii. Install</h3>
 
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-<span style="padding-left: 20px;">a.</span> Object localization
-</h3>
-
-```
+<div style="padding-left: 20px;">
+    <h3 style="font-family: 'Times New Roman'; font-size: 15px;">a. Object localization</h3>
+    <pre>
 pip install -r requirements_localization.txt
-```
-
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-    b. Foreground recognition
-</h3>
-
-```
+    </pre>
+    <h3 style="font-family: 'Times New Roman'; font-size: 15px;">b. Foreground recognition</h3>
+    <pre>
 pip install -r requirements_recognition.txt
-```
+    </pre>
+</div>
+
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 iii. Download pretrain backbone weight
