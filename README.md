@@ -143,7 +143,7 @@ python test_performance.py
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Notice</h2>
 
-We will release our code and VQA dataset to support future research in remote sensing open-vocabulary object detection.
+Next, we will release some scripts between the object localization and foreground recognition stages to complete the connection between the object localization and foreground recognition stages.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">📢Contact</h2>
 
