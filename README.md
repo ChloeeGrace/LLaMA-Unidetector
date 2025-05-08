@@ -50,7 +50,7 @@ ii. Install
 </h3>
 
 ```
-pip install -r requirements.txt
+pip install -r requirements_localization.txt
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
