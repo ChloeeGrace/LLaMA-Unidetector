@@ -63,7 +63,17 @@ Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.g
 2. Data Preparation
 </h3>
 
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+i. class-agnostic detection stage
+</h3>
+
 A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LLAVA_TUNE.json) dataset. Any detection or recognition dataset can be made into a VQA dataset.
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+ii. TerraOV-LLM foreground recoginition stage
+</h3>
+
+Some simple examples of the foreground-background [**(FB)**](class agnostic detection dataset/00002.txt) dataset. Any remote sensing object detection dataset can be made into a FB dataset.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
