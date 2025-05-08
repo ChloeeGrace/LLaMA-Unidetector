@@ -72,7 +72,7 @@ Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.g
 ii. TerraOV-LLM foreground recoginition stage
 </h3>
 
-Download the pre-trained [checkpoint-3-7B.pth](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) and [7B-chinese-params](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) weights, and then modify the corresponding path (Put checkpoint-3-7B.pth in the ckpt directory of foreground-recognition, and place 7B-chinese-params in the foreground-recognition directory.).
+Download the pre-trained [checkpoint-3-7B.pth](https://pan.baidu.com/s/1P3pW3euqqxYVZQvw-is1vQ?pwd=1234) and [7B-chinese-params](https://pan.baidu.com/s/1P3pW3euqqxYVZQvw-is1vQ?pwd=1234) weights, and then modify the corresponding path (Put checkpoint-3-7B.pth in the ckpt directory of foreground-recognition, and place 7B-chinese-params in the foreground-recognition directory.).
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 2. Data Preparation
