@@ -52,7 +52,9 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
     <pre>
 pip install -r requirements_localization.txt
     </pre>
-
+</div>
+    
+<div style="padding-left: 20px;">
     <h3 style="font-family: 'Times New Roman'; font-size: 15px;">b. Foreground recognition</h3>
     <pre>
 pip install -r requirements_recognition.txt
