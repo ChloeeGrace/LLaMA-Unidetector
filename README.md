@@ -59,26 +59,36 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 </ul>
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-iii. Download pretrain backbone weight
-</h3>
-
-Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) weights, and then modify the corresponding path (directory named ckpt in object-localization).
-
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-2. Data Preparation
+iii. Download pretrain weight
 </h3>
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. class-agnostic detection stage
 </h3>
 
-A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LLAVA_TUNE.json) dataset. Any detection or recognition dataset can be made into a VQA dataset.
+Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) weights, and then modify the corresponding path (directory named ckpt in object-localization).
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 ii. TerraOV-LLM foreground recoginition stage
 </h3>
 
+Download the pre-trained [checkpoint-3-7B.pth](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) and [7B-chinese-params](https://drive.usercontent.google.com/download?id=1AwUn5EebmmLBo7njjW_Ng1q9zDrqkNbB&export=download&authuser=0&confirm=t&uuid=310c932c-5d4d-4d53-93ff-0a1d490371d9&at=ALoNOgmhqR4P-8nW4jU6Qbn-Yu5M:1746691948748) weights, and then modify the corresponding path (directory named ckpt in object-localization).
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+2. Data Preparation
+</h3>
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+i. class-agnostic object localization stage
+</h3>
+
 Some simple examples of the foreground-background [**(FB)**](class%20agnostic%20detection%20dataset/00002.txt) dataset. Any remote sensing object detection dataset can be made into a FB dataset.
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+ii. TerraOV-LLM foreground recoginition stage
+</h3>
+
+A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LLAVA_TUNE.json) dataset. Any detection or recognition dataset can be made into a VQA dataset.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
