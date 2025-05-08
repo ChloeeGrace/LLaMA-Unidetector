@@ -50,15 +50,11 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 <ul style="list-style-type: none; padding-left: 20px;">
     <li>
         <h3 style="font-family: 'Times New Roman'; font-size: 15px;">a. Object localization</h3>
-        <pre>
-pip install -r requirements_localization.txt
-        </pre>
+        <pre>pip install -r requirements_localization.txt</pre>
     </li>
     <li>
         <h3 style="font-family: 'Times New Roman'; font-size: 15px;">b. Foreground recognition</h3>
-        <pre>
-pip install -r requirements_recognition.txt
-        </pre>
+        <pre>pip install -r requirements_recognition.txt</pre>
     </li>
 </ul>
 
