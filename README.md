@@ -91,6 +91,8 @@ ii. TerraOV-LLM foreground recoginition stage
 A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LLAVA_TUNE.json) dataset. Any detection or recognition dataset can be made into a VQA dataset.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. class-agnostic object localization stage
 </h3>
 
@@ -107,6 +109,8 @@ sh finetune.sh
 ```
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🤖Inference</h2>
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. class-agnostic object localization stage
 </h3>
 
