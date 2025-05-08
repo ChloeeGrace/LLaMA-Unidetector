@@ -54,6 +54,10 @@ pip install -r requirements.txt
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+iii. Download pretrain backbone weight
+</h3>
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 2. Data Preparation
 </h3>
 
