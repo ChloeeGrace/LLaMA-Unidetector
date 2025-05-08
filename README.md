@@ -50,7 +50,7 @@ ii. Install
 </h3>
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-a. Object localization
+    a. Object localization
 </h3>
 
 ```
@@ -58,7 +58,7 @@ pip install -r requirements_localization.txt
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-b. Foreground recognition
+    b. Foreground recognition
 </h3>
 
 ```
