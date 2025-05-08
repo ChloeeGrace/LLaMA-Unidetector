@@ -57,6 +57,8 @@ pip install -r requirements.txt
 iii. Download pretrain backbone weight
 </h3>
 
+Download the pre-trained [checkpoint0033_4scale.pth](https://download.pytorch.org/models/resnet50-19c8e357.pth) weights, and then modify the corresponding path (directory named ckpt).
+
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 2. Data Preparation
 </h3>
