@@ -50,7 +50,7 @@ ii. Install
 </h3>
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-    <span style="padding-left: 20px;">a.</span> Object localization
+<span style="padding-left: 20px;">a.</span> Object localization
 </h3>
 
 ```
