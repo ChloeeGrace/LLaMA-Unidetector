@@ -73,7 +73,7 @@ A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LL
 ii. TerraOV-LLM foreground recoginition stage
 </h3>
 
-Some simple examples of the foreground-background [**(FB)**]("class agnostic detection dataset/00002.txt") dataset. Any remote sensing object detection dataset can be made into a FB dataset.
+Some simple examples of the foreground-background [**(FB)**](class%20agnostic%20detection%20dataset/00002.txt) dataset. Any remote sensing object detection dataset can be made into a FB dataset.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
