@@ -48,9 +48,9 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">ii. Install</h3>
 
 <div style="padding-left: 20px;">
-    <h3 style="font-family: 'Times New Roman'; font-size: 15px;">a. Object localization</h3>
+    <h3 style="font-family: 'Times New Roman'; font-size: 15px;">    a. Object localization</h3>
     <pre>
-pip install -r requirements_localization.txt
+    pip install -r requirements_localization.txt
     </pre>
 </div>
     
