@@ -63,7 +63,7 @@ Download the pre-trained [checkpoint0033_4scale.pth](https://drive.usercontent.g
 2. Data Preparation
 </h3>
 
-A simple example of a vision-language-answering [**(VQA dataset)**](VQA_dataset/AID30_LLAVA_TUNE.json). Any detection or recognition dataset can be made into a VQA dataset.
+A simple example of a vision-language-answering [**(VQA)**](VQA_dataset/AID30_LLAVA_TUNE.json) dataset. Any detection or recognition dataset can be made into a VQA dataset.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
