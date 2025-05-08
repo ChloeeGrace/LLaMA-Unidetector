@@ -33,9 +33,9 @@ Our main contributions are:
 1. Installation
 </h3>
 
-LLaMA-Unidetector consists of a two-stage algorithm, namely **object localization** and **foreground recognition**. 
-- **Object localization** is developed based on python==3.9.11 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements.txt. 
-- **Foreground recognition** is developed based on python==3.9.11 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements.txt.
+LLaMA-Unidetector consists of a two-stage algorithm, namely **object localization** and **foreground recognition**. Therefore, virtual environments were established respectively for the two stages.
+- **Object localization** is developed based on python==3.8.19 torch==1.13.0+cu117 and torchvision==0.14.0+cu117. Check more details in requirements_localization.txt. 
+- **Foreground recognition** is developed based on python==3.8.19 torch==1.13.1+cu117 and torchvision==0.14.1+cu117. Check more details in requirements_recognition.txt.
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. Clone Project
@@ -49,8 +49,20 @@ git clone https://github.com/ChloeeGrace/LLaMA-Unidetector.git
 ii. Install
 </h3>
 
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+a. Object localization
+</h3>
+
 ```
 pip install -r requirements_localization.txt
+```
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+b. Foreground recognition
+</h3>
+
+```
+pip install -r requirements_recognition.txt
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
