@@ -132,12 +132,12 @@ python test_performance.py
 @ARTICLE{10976651,
   author={Xie, Jianlin and Wang, Guanqun and Zhang, Tong and Sun, Yikang and Chen, He and Zhuang, Yin and Li, Jun},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery}, 
+  title={LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Object detection;Remote sensing;Training;Detectors;Visualization;Feature extraction;Location awareness;Semantics;Data mining;Optimization;open-vocabulary;remote sensing object detection;decoupled learning},
+  pages={1-18},
+  keywords={Object detection;Remote sensing;Training;Detectors;Visualization;Feature extraction;Location awareness;Semantics;Data mining;Optimization;Decoupled learning;open vocabulary;remote sensing object detection},
   doi={10.1109/TGRS.2025.3564332}}
 ```
 
